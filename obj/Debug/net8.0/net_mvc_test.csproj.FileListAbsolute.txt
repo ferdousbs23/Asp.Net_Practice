@@ -32,3 +32,4 @@ E:\Practice\net_mvc_test\obj\Debug\net8.0\refint\net_mvc_test.dll
 E:\Practice\net_mvc_test\obj\Debug\net8.0\net_mvc_test.pdb
 E:\Practice\net_mvc_test\obj\Debug\net8.0\net_mvc_test.genruntimeconfig.cache
 E:\Practice\net_mvc_test\obj\Debug\net8.0\ref\net_mvc_test.dll
+E:\Practice\net_mvc_test\obj\Debug\net8.0\net_mvc_test.sourcelink.json
